@@ -18,7 +18,7 @@ $color-error:           #e74c3c;
 
 $body-bg:               #2c3e50;
 
-$gray:                  #dee6ea;
+$gray-sky:              #dee6ea;
 $gray-light:            #edf3f6;
 $deep-blue:             #171722; // Deprecated
 $white:                 #ffffff;
@@ -173,7 +173,7 @@ $background-color-map: (
   'info':                 $color-info,
   'warning':              $color-warning,
   'error':                $color-error,
-  'gray':                 $gray,
+  'gray':                 $gray-sky,
   'gray-light':           $gray-light
 );
 
@@ -184,7 +184,7 @@ $badges-color-map: (
   primary:              $brand-primary,
   secondary:            $brand-secondary,
   dark:                 $brand-dark,
-  gray:                 $gray,
+  gray:                 $gray-sky,
   success:              $color-success,
   error:                $color-error,
   warning:              $color-warning
